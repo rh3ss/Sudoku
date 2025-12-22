@@ -35,3 +35,6 @@ int main() {
     return 0;
 }
 ```
+
+## License
+This project is intended for learning and personal use. Feel free to use and experiment.
