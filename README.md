@@ -1,4 +1,4 @@
-# Sudoku Solver #
+# 989 Su Doku #
 
 This repository contains a C++ implementation of a Sudoku solver designed to address _Problem 989 – Su Doku_ from the _UVa Online Judge_ platform: https://onlinejudge.org/external/9/989.pdf
 
